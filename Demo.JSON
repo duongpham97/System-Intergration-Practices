@@ -1,0 +1,10 @@
+{
+  "Subject":"System Integration Practices",
+  "Student":[
+    {"Name":"Pham Duc Duong","class":"K21CMUTPM3"},
+    {"Name":"Vo Hoang Quoc Nhan","class":"K21CMUTPM2"},
+    {"Name":"Phung Dang Hoang Phuong","class":"K21CMUTPM1"},
+    {"Name":"Nguyen Nguyen","class":"K21CMUTPM1"}
+  ],
+  "Teacher":"Nguyen Thi Anh Dao"
+}
